@@ -1,0 +1,8 @@
+'''
+2024.11.28
+NSP fine tuning
+
+사용 모델: snunlp/KR-BERT-char16424 (출처: https://huggingface.co/snunlp/KR-BERT-char16424)
+사용 데이터셋 출처 : 모두의 말뭉치 (출처: https://kli.korean.go.kr/corpus/main/requestMain.do?lang=ko 회원가입 필요
+
+-코드에 사용된 데이터셋은 024.에세이 글 평가데이터 중 TS_글짓기 폴더에 있는 데이터를 사용했습니다
